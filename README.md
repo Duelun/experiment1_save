@@ -3,16 +3,18 @@ I am make experiments to prove my Dual Element Universe theory. To this, I desig
 The device directed by a Rapsberry Pi 4 micro-computer. The presented script runs on Raspberry Pi 4 and handle the device and saves the measurement datas.
 The script was published to check the correctness of the measurement methodology.
 
-The operation of the script:
- - It start the run of electrical boards, meassurer periferias and nullable the registers.
+![alt text](https://github.com/duelun/experiment1_save/blob/main/pictures/pic1.png?raw=true)
+
+#The operation of the script:
+ - It start the run of electrical boards, measurer periferias and null the registers.
  - At the set time the script close the lach gates at same time on both circual board.
  - Read out and store the 2 x 48 bit datas and temperature sensors values.
  - Open the lach gates.
- - After the preset number of meassuring stop the device and save the struktured datas into file.
+ - After the preset number of measuring stops the device and saves the struktured datas into file.
 
-The abilities of script:
- - Setable warming time. The electrical boards and periferias run without meassure to warming up them the working temperature.
- - Setable measurment interval. The devices has stable working from 0.1 s measuring interval.
+#The abilities of script:
+ - Setable warming time. The electrical boards and periferias run without meassuring to warming up them at the working temperature.
+ - Setable measurement interval. The devices has stable working from 0.1 s measuring interval. /without data showing/
  - Setable measuring number.
  - Setable continous measurment set number.
- - 
+ - Showing data values and data grafs. /switchable/
