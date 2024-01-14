@@ -11,6 +11,8 @@ The script was published to check the correctness of the measurement methodology
  - Read out and store the 2 x 48 bit datas and temperature sensors values.
  - Open the lach gates.
  - After the preset number of measuring stops the device and saves the struktured datas into file.
+ - 
+![alt text](https://github.com/duelun/experiment1_save/blob/main/pictures/pic2.png?raw=true)
 
 #The abilities of script:
  - Setable warming time. The electrical boards and periferias run without meassuring to warming up them at the working temperature.
@@ -18,3 +20,4 @@ The script was published to check the correctness of the measurement methodology
  - Setable measuring number.
  - Setable continous measurment set number.
  - Showing data values and data grafs. /switchable/
+![alt text](https://github.com/duelun/experiment1_save/blob/main/pictures/pic3.png?raw=true)
