@@ -20,4 +20,5 @@ The script was published to check the correctness of the measurement methodology
  - Setable measuring number.
  - Setable continous measurment set number.
  - Showing data values and data grafs. /switchable/
+ - 
 ![alt text](https://github.com/duelun/experiment1_save/blob/main/pictures/pic3.png?raw=true)
